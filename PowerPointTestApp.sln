@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointTestApp", "PowerPointTestApp\PowerPointTestApp.csproj", "{BF1A6E03-9F51-456B-9D25-840377E8B594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF1A6E03-9F51-456B-9D25-840377E8B594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1A6E03-9F51-456B-9D25-840377E8B594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1A6E03-9F51-456B-9D25-840377E8B594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1A6E03-9F51-456B-9D25-840377E8B594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE321005-9A7F-4DC0-92F1-C2479B4B111D}
+	EndGlobalSection
+EndGlobal

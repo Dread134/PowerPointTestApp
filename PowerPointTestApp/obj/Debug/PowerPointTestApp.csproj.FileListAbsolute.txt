@@ -1,0 +1,10 @@
+D:\Programs\PowerPointTestApp\PowerPointTestApp\obj\Debug\PowerPointTestApp.csprojResolveAssemblyReference.cache
+D:\Programs\PowerPointTestApp\PowerPointTestApp\obj\Debug\PowerPointTestApp.Properties.Resources.resources
+D:\Programs\PowerPointTestApp\PowerPointTestApp\obj\Debug\PowerPointTestApp.csproj.GenerateResource.cache
+D:\Programs\PowerPointTestApp\PowerPointTestApp\obj\Debug\PowerPointTestApp.csproj.CoreCompileInputs.cache
+D:\Programs\PowerPointTestApp\PowerPointTestApp\bin\Debug\PowerPointTestApp.exe.config
+D:\Programs\PowerPointTestApp\PowerPointTestApp\bin\Debug\PowerPointTestApp.exe
+D:\Programs\PowerPointTestApp\PowerPointTestApp\bin\Debug\PowerPointTestApp.pdb
+D:\Programs\PowerPointTestApp\PowerPointTestApp\obj\Debug\PowerPointTestApp.exe
+D:\Programs\PowerPointTestApp\PowerPointTestApp\obj\Debug\PowerPointTestApp.pdb
+D:\Programs\PowerPointTestApp\PowerPointTestApp\obj\Debug\PowerPointTestApp.Form1.resources
